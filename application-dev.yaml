@@ -3,7 +3,8 @@
 server:
   port: 8001
 
-
+config:
+  info: 嗨嗨嗨-dev
 
 # mybatis配置相关的
 mybatis:
