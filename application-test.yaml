@@ -1,2 +1,2 @@
-config
-  -div
+config:
+  info: 嗨嗨嗨-test
